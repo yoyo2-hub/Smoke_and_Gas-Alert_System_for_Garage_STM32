@@ -1,7 +1,9 @@
 # Smoke/Gas Alert System for Garage Using STM32
-Hardware used: STM32F401 Nucleo, MQ-2 gas sensor, flame sensor, buzzer, relay module, red LED, Dupont wires.
+# Hardware used: 
+STM32F401 Nucleo, MQ-2 gas sensor, flame sensor, buzzer, relay module, red LED, Dupont wires.
 
-Description: Inspired by home automation projects using DHT11, LDR, and MQ-2 sensors,this project implements a fire and gas alert system for garages.
+# Description: 
+Inspired by home automation projects using DHT11, LDR, and MQ-2 sensors,this project implements a fire and gas alert system for garages.
 
 The Nucleo reads the MQ-2 voltage via ADC and receives digital signals from the flame detector.
 
